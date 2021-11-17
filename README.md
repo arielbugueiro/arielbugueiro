@@ -16,7 +16,7 @@ const arielbugueiro = {
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["VSCode", "Sass","Bootstrap", "JQuery", "Php","Java"],
   database: ["MySql", "PostgreSQL"],
-  library: ["React"],
+  library: ["Angular"],
   softSkills: [organisation, teamwork, resilience, decisive, empathy],
  };
 ```
