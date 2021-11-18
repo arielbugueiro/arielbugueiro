@@ -36,7 +36,7 @@ const arielbugueiro = {
 ### Certificados 📜
 * Desarrollador de Software 💻 [ICOP]()
 * Diseño Web Profesional 🎓 [Udemy](https://www.udemy.com/certificate/UC-2d795c21-74cb-4584-ace6-33a479a5bdfe/)
-* Desarrollo web. JavaScript desde cero. 🎓 [Udemy](https://www.udemy.com/certificate/UC-e458685a-f24b-446c-b933-1d8aa9cd6c97/)
+* JavaScript desde cero. 🎓 [Udemy](https://www.udemy.com/certificate/UC-e458685a-f24b-446c-b933-1d8aa9cd6c97/)
 * Html5 desde cero: [Udemy](https://www.udemy.com/certificate/UC-a982a8c2-5a38-4656-b2c4-a23409bc1510/)
 
 -----
