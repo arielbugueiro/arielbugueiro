@@ -8,8 +8,7 @@
 
 * 💬 Me considero una persona responsable, entusiasta y siempre dispuesto a aprender todo tipo de nuevas tecnologías. 
 * 👨‍💻 Aquí puedes ver mi [Portfolio](https://arielbugueiro.github.io/portfolio2021/)
-* 👨‍🎓 Actualmente me encuentro realizando el curso de Fernando Herrera, Angular: De cero a experto - ( Edición 2021 )
- 
+* 👨‍🎓 Actualmente me encuentro realizando el curso de Fernando Herrera, Angular: De cero a experto - ( Edición 2021 ).
 
 ```
 const arielbugueiro = {
