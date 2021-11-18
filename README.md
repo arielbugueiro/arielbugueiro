@@ -22,6 +22,15 @@ const arielbugueiro = {
  };
 ```
 
+-----
+
+<p align="center">
+<a href="https://github.com/arielbugueiro">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielbugueiro&layout=compact" />
+</a>
+</p>
+
+
 
 -----
 
@@ -36,8 +45,4 @@ const arielbugueiro = {
 ### Encuentrame en 🌎:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArielBugueiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ariel-bugueiro/)
 [![Twitter](https://img.shields.io/badge/Twitter-@arielbugueiro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ArielBugueiro1)
-
-
-
-‍
 
