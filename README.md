@@ -8,18 +8,8 @@
 
 * 💬 Me considero una persona responsable, entusiasta y siempre dispuesto a aprender todo tipo de nuevas tecnologías. 
 * 👨‍💻 Aquí puedes ver mi [Portfolio](https://arielbugueiro.github.io/portfolio2021/)
-* 👨‍🎓 Actualmente me encuentro realizando el curso de Fernando Herrera, Angular: De cero a experto - ( Edición 2021 ).
+* 👨‍🎓 Actualmente me encuentro trabajando en proyectos NET 6.
 
-```
-const arielbugueiro = {
-  pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["VSCode", "Sass","Bootstrap", "JQuery", "Php","Java"],
-  database: ["MySql", "PostgreSQL"],
-  library: ["Angular"],
-  softSkills: [organisation, teamwork, resilience, decisive, empathy],
- };
-```
 
 -----
 
@@ -35,9 +25,6 @@ const arielbugueiro = {
 
 ### Certificados 📜
 * Desarrollador de Software 💻 [ICOP]()
-* Diseño Web Profesional 🎓 [Udemy](https://www.udemy.com/certificate/UC-2d795c21-74cb-4584-ace6-33a479a5bdfe/)
-* JavaScript desde cero. 🎓 [Udemy](https://www.udemy.com/certificate/UC-e458685a-f24b-446c-b933-1d8aa9cd6c97/)
-* Html5 desde cero: [Udemy](https://www.udemy.com/certificate/UC-a982a8c2-5a38-4656-b2c4-a23409bc1510/)
 
 -----
 
