@@ -13,17 +13,7 @@
 
 -----
 
-<p align="center">
-<a href="https://github.com/arielbugueiro">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielbugueiro&layout=compact" />
-</a>
-</p>
-
-
-
------
-
-### Certificados 📜
+### Estudios 📜
 * Desarrollador de Software 💻 [ICOP]()
 
 -----
